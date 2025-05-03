@@ -1,6 +1,6 @@
 # THE SHELL
 ## System Information
-1 Подключение к машине HTB по ssh
+#####1 Подключение к машине HTB по ssh
 ![image](https://github.com/user-attachments/assets/27c79fd0-a48d-4a7a-9a85-7cb1a80b2497)
 2 Разрядность машины
 ![image](https://github.com/user-attachments/assets/34a04047-cd1a-450d-855b-960effd8fed2)
